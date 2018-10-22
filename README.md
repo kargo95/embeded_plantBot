@@ -1,3 +1,12 @@
+http://www.devicemart.co.kr/1279806 습도센서 2개
+http://www.devicemart.co.kr/1383893 온도센서 2개
+http://www.devicemart.co.kr/1362011 UV센서
+http://www.devicemart.co.kr/1322885 컨버터 2개
+
+https://www.devicemart.co.kr/1381629 저항
+http://www.devicemart.co.kr/1272910 점퍼선MF
+http://www.devicemart.co.kr/1272909 점퍼선FF
+http://www.devicemart.co.kr/1272908 점퍼선MM
 # embeded_plantBot
 ![1](https://user-images.githubusercontent.com/31499111/46926196-bb29f500-d06a-11e8-9026-ce3149787e51.JPG)
 ![2](https://user-images.githubusercontent.com/31499111/46926197-bbc28b80-d06a-11e8-8903-b7881444738d.JPG)
