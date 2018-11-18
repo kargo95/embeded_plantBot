@@ -9,10 +9,10 @@ o 실습절차
 라. esp8266 라이브러리 설치
 마. wifi에 접속확인하기
 
-
-
-
 3. 결과
+![default](https://user-images.githubusercontent.com/31499111/48675557-9bbc4580-eb9d-11e8-9fa0-b5243d905ed0.PNG)
+![default](https://user-images.githubusercontent.com/31499111/48675558-a4148080-eb9d-11e8-8407-fb21094d00a3.PNG)
+
 
 해결방안
   - 딜레이가 걸리는 이유는 API가 호출될때마다 센서값을 읽기때문에 시간이 걸리는 것으로 확인
