@@ -24,4 +24,4 @@ wifi 접속 여부 확인
  https://webnautes.tistory.com/980 (아두이노IDE 로 온습도센서값 받기, adafruit라이브러리 사용)
  http://yeapyeap.tistory.com/7 (아두이노IDE 로 온습도센서값 받기, adafruit라이브러리 사용)
  http://deneb21.tistory.com/409 (nodeMCU에 DHT11온습도센서 연결하기)
-http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_esp&wr_id=44 (nodeMCU 와이파이 접속TEST하기)
+ http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_esp&wr_id=44 (nodeMCU 와이파이 접속TEST하기)
