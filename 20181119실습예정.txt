@@ -1,0 +1,30 @@
+1. 프로젝명 : 말하는식물 '식물봇'
+
+2. 금주 실습할 내용
+o 실습명   
+  - 라즈베리파이와 nodemcu사이의 데이터 주고받기
+  - 토양습도센서와 uv센서 부착
+o 실습절차
+  가. 라즈베리파이 소켓서버 구현
+  나. esp8266 소켓클라이언트 구현
+  다. 온습도값을 esp8266에서 라즈베리파이로 전달
+  라. 토양센서와 uv센서 부착하기
+
+3. 예상 결과
+  - 클라이언트에서 보낸값을 서버에서 받을 수 있다.
+  - 토양습도센서와 uv센서값을 구할 수 있다.
+
+4. 관련 링크
+  -----esp8266 소켓클라이언트-----
+  http://answerofgod.tistory.com/entry/ESP8266%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0using-Lua
+  https://github.com/Links2004/arduinoWebSockets/issues/258
+
+  -----라즈베리파이 파이썬 소켓서버------
+  http://littlecold2.tistory.com/7
+  
+  
+  -----센서부착-----
+  (토양습도)https://m.blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=221042219691&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+  (토양습도)https://kocoafab.cc/tutorial/view/369
+  (UV센서)http://arduinolearning.com/code/arduino-guva-s12sd-uv-sensor.php
+  
