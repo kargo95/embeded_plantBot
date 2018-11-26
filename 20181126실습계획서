@@ -1,0 +1,25 @@
+1. 프로젝명 : 말하는식물 '식물봇'
+
+2. 금주 실습할 내용
+o 실습명   
+  - nodejs로 웹서버를 개설하여 NodeMCU클라이언트에서 접속시키기
+
+o 실습절차
+  가. nodejs웹서버 개설하기
+  나. NodeMCU 클라이언트 개설하기
+  가. NodeMCU에 토양습도센서와 uv센서 부착
+  나. 온습도센서값을 서버로 전송
+  다. uv센서와 토양습도센서 부착하기
+  라. 카카오톡 플러스친구로 센서값을 볼 수 있는지 확인 
+
+3. 예상 결과
+  - 클라이언트가 웹서버에 접속이 가능하다
+  - 클라이언트가 웹서버에 데이터를 전달하면 에코를 받을 수 있다.
+
+4. 관련 링크
+  (토양습도부착)https://m.blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=221042219691&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+  (토양습도부착)https://kocoafab.cc/tutorial/view/369
+  (UV센서부착)http://arduinolearning.com/code/arduino-guva-s12sd-uv-sensor.php
+  (nodejs웹서버개설)https://javafa.gitbooks.io/nodejs_server_basic/content/chapter2.html
+  (nodejs웹서버개설)https://opentutorials.org/course/3332/21032
+  (nodejs와 아두이노간 통신)cfile21.uf.tistory.com/attach/26306A3C577091B712EF87
