@@ -1,0 +1,23 @@
+1. 프로젝명 : 말하는식물 '식물봇'
+
+2. 금주 실습할 내용
+o 실습명   
+  - 카카오톡 플러스친구에 센서값 출력하기
+
+o 실습절차
+  가. 카카오톡 API로 센서값 읽어오기
+  나. 카카오톡 플러스친구에 입력한 명령어에 따라 해당 센서값 출력 확인
+  다. NodeMCU에 토양습도센서와 uv센서 부착 
+  라. uv센서와 토양습도센서 부착하기
+  마. 각 센서값 별로 헤더를 만들어 서버에서 센서값 구별
+  바. uv센서, 토양습도센서, 온도센서의 값을 카카토톡으로 확인
+
+
+3. 예상 결과
+  - 카카오톡 플러스친구에서 원하는 센서값을 입력하면 해당 센서값 출력
+
+4. 관련 링크
+  (토양습도부착)https://m.blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=221042219691&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+  (토양습도부착)https://kocoafab.cc/tutorial/view/369
+  (UV센서부착)http://arduinolearning.com/code/arduino-guva-s12sd-uv-sensor.php
+  (카카오톡 nodejs)http://codevkr.tistory.com/30
