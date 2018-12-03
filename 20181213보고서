@@ -1,0 +1,38 @@
+1. 프로젝명 : 말하는식물 '식물봇'
+---------------------------------
+
+2. 금주 실습할 내용
+```
+  - 실습명 : nodejs 웹서버 구축
+  - 실습절차 :
+    가. nodejs설치
+    나. nodejs를 이용하여 웹서버 구축
+    다. arduino에서 웹서버 client 작성
+    라. NodeMCU로 얻은 온도값을 웹서버로 전달
+    마. 받은 온도값 데이터를 웹페이지에 출력
+```
+---------------------------------
+
+3. 결과
+
+![default](https://user-images.githubusercontent.com/31499111/48994098-b5a0ee00-f184-11e8-8940-795f1a416a38.PNG)
+
+---------------------------------
+
+4. 소감 및 질문
+```
+  - 소켓 클라이언트/서버를 구현 해본적이 있었기 때문에 어렵지 않게 할 수 있었다.
+  - 다른 통신 방법도 알아보고 시도해보고싶다.
+  - 여러 센서값을 전달받을때 어떤 센서의 값인지 구분하는 방법을 찾아야한다.
+```
+---------------------------------
+
+5. 관련 링크
+```
+http://www.hardcopyworld.com/ngine/aduino/index.php/archives/3249 (라즈베리파이 아두이노간 소켓통신)
+https://www.dfrobot.com/blog-775.html
+https://techtutorialsx.com/2017/11/01/esp32-arduino-websocket-client/
+https://pypi.org/project/websockets/
+http://deneb21.tistory.com/409 (nodeMCU에 DHT11온습도센서 연결하기)
+
+```
